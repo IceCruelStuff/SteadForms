@@ -1,0 +1,10 @@
+name: SteadForms
+main: litek\steadforms\SteadForms
+version: 1.0-beta
+author: LiTEK
+api: 1.12.0
+api-version: 1.12.0
+website: twitter.com/LiTEK_
+database: false
+description: form api for PocketMine-Steadfast2
+load: POSTWORLD

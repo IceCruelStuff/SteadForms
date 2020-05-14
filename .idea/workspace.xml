@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd6aeeb4-42cf-4dab-9fe7-2ce50146688b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SteadForms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/SteadForms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/Button.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/Dropdown.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/Element.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/Input.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/Label.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/Slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/StepSlider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/elements/Toggle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/forms/BaseForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/forms/CustomForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/forms/Form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/forms/MenuForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/litek/steadforms/forms/ModalForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Tests.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP-PMMP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../src/pocketmine" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1bsOFTqcBz6CTLZwQPDUcebkIhp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../src/pocketmine" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/litek/steadforms/elements" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd6aeeb4-42cf-4dab-9fe7-2ce50146688b" name="Default Changelist" comment="" />
+      <created>1589417233615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589417233615</updated>
+      <workItem from="1589417250058" duration="8386000" />
+      <workItem from="1589464918001" duration="15432000" />
+      <workItem from="1589480476618" duration="4669000" />
+      <workItem from="1589487364542" duration="430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="42" width="377" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1589478380703">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="489" y="42" width="377" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1589478380703" />
+    <state x="489" y="70" width="377" height="655" key="#com.intellij.ide.util.MemberChooser/0.30.1366.738@0.30.1366.738" timestamp="1589425572467" />
+    <state x="516" y="179" width="314" height="437" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589418371103">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="516" y="179" width="314" height="437" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1366.738@0.30.1366.738" timestamp="1589418371103" />
+    <state x="416" y="157" width="524" height="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1589424937380">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="416" y="157" width="524" height="482" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.30.1366.738@0.30.1366.738" timestamp="1589424937380" />
+    <state x="465" y="132" width="424" height="509" key="FileChooserDialogImpl" timestamp="1589485397713">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="465" y="132" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589485389457" />
+    <state x="465" y="132" width="424" height="509" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1589485397713" />
+    <state x="563" y="303" key="Github.ShareDialog" timestamp="1589487760112">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="563" y="303" key="Github.ShareDialog/0.30.1366.738@0.30.1366.738" timestamp="1589487760112" />
+    <state x="464" y="30" width="427" height="736" key="Github.UntrackedFilesDialog" timestamp="1589487768608">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="464" y="30" width="427" height="736" key="Github.UntrackedFilesDialog/0.30.1366.738@0.30.1366.738" timestamp="1589487768608" />
+    <state x="361" y="103" width="639" height="538" key="NewPhpClassDialog" timestamp="1589477008069">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="361" y="103" width="639" height="538" key="NewPhpClassDialog/0.0.1366.768@0.0.1366.768" timestamp="1589477008069" />
+    <state x="361" y="129" width="633" height="538" key="NewPhpClassDialog/0.30.1366.738@0.30.1366.738" timestamp="1589418817070" />
+    <state x="194" y="4" key="SettingsEditor" timestamp="1589480368367">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="194" y="4" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1589480368367" />
+    <state x="194" y="34" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1589417341116" />
+    <state x="376" y="198" width="658" height="370" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1589482508571">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="376" y="198" width="658" height="370" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1589482508571" />
+    <state x="395" y="97" width="575" height="575" key="find.popup" timestamp="1589477552000">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="395" y="97" width="575" height="575" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1589477552000" />
+    <state x="395" y="123" width="575" height="552" key="find.popup/0.30.1366.738@0.30.1366.738" timestamp="1589417722696" />
+  </component>
+</project>
