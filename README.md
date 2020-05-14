@@ -3,7 +3,7 @@ Plugin for PocketMine-Steadfast2 that allow you create GUI in a few clicks.
 
 ![twitter](https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Twitter-16.png) @LiTEK_
 
-##Features
+## Features
  - Fast image loading in menu forms.
  - Friendly user API
  - Get text and index for buttons in menu forms.
